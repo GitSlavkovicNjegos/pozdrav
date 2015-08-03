@@ -2,3 +2,5 @@
 zdravo
 cao
 pozdrav
+nov tekst
+
